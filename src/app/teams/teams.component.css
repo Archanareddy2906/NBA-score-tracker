@@ -1,0 +1,33 @@
+.form-select{
+    width: 30%;
+}
+
+img {
+    width: 87px;
+}
+
+.close{
+    position: absolute;
+    top: 2px;
+    right: 7px;
+}
+option {
+    font-size: 14px;
+}
+
+.dot {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 5px;
+    text-align: center;
+    margin-bottom: 10px;
+    padding: 4px;
+  }
+  button{
+    margin-top: 10px;
+}
+.card{
+    margin-top: 8px;
+}
